@@ -6,3 +6,14 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.text {
+  color: #443e3e;
+}
+.background {
+  color: #443e3e;
+  text-align: center;
+  float: left;
+}
+.text {
+  flex-direction: column;
+}
